@@ -1,0 +1,61 @@
+#header{
+    background-color: #F7F7F8;
+    padding: 12px;
+}
+#header-menu li {
+    display: inline-block;
+}
+#header-menu li a{
+    text-decoration: none;
+    padding: 10px 10px;
+    color: black;
+    display: block;
+}
+#header-menu li a:hover{
+    background-color:#c7eccd;
+    border: 1px  solid black;
+    border-radius: 10%;
+}
+#header-menu{
+    margin: 0px;
+    padding: 0px;
+}
+#header-h{
+    padding: 4px;
+    text-align: center;
+}
+#header-h:hover{
+    background-color: #d6e7f0;
+    color: rgb(47, 46, 46);
+    border-radius: 10%;
+}
+#banner{
+    background-image: url('../media/astronaut-gaf009a555_1280.jpg');
+    padding: 200px;
+    
+}
+#banner h2{
+color: white;
+}
+#banner h3{
+    color: white;
+}
+#banner p{
+    color: white;
+
+}
+#option img{
+    width: 65%;
+    height: 90%;
+}
+#celebraty p{
+    text-align: center;
+  
+}
+#celebraty img{
+    height: 80%;
+    width: 100%;
+}
+.nav-item li a {
+    color: aliceblue;
+}
